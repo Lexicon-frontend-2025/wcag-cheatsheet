@@ -1,4 +1,4 @@
-# ♿️ WCAG Cheatsheet – Tillgänglig Webbutveckling
+# WCAG Cheatsheet – Tillgänglig Webbutveckling
 
 ## 📘 Vad är WCAG?
 WCAG (Web Content Accessibility Guidelines) är internationella riktlinjer för att göra webbinnehåll mer tillgängligt för personer med funktionsnedsättningar. Senaste versionen: **WCAG 2.1 / 2.2** (W3C).
